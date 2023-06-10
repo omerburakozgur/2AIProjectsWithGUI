@@ -1,5 +1,5 @@
 # 2AIProjectsWithGUI
-Note : The .H5 Model files are quite big (600mb) so i cannot add them to github, you can download the project files from the Google Drive link below.
+Note : The .H5 Model files are quite big (600mb) so i cannot add them to github, you can download the full project files from the releases tab.
 
 ENGLISH
 This github repository consists of 2 AI projects that one of them is machine learning and the other one is a CNN application. I included the datasets with the projects. Main goal of these projects are to test and compare different AI structures with parameters like batch size, epoch number, different AI models and test and train methods like KNN or Holdout. Project does have an included GUI with many options, you can either use a pretrained model by me with different methods or you can train your own models with the application. Many graphs like Accuracy, Confusion Matrix and Loss are included. You can save the model with graphs if you want to. UI is in Turkish language if i remember right. If i can find enough time from my game projects i can make a version that is in English. 
